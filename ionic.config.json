@@ -1,0 +1,7 @@
+{
+  "name": "photo-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
